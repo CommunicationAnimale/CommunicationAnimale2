@@ -28,13 +28,3 @@ author:
 version:             1.0.0
 github:
   repo:              https://github.com/CommunicationAnimale/CommunicationAnimale2
-
-# Collections
-collections:
-  tpe:
-    output: true
-    permalink: /:collection/:title/
-
-# Build
-kramdown:
-   math_engine: mathjax 
