@@ -6,9 +6,9 @@ permalink:           pretty
 # Setup
 title:               La Communication Animale
 tagline:             Que permettent les nouvelles connaissances en matière de communication animale ?
-url:                 https://communicationanimale.tk/CommunicationAnimale2/
+url:                 https://communicationanimale.tk
 paginate:            1
-baseurl:             ""
+baseurl:             "/CommunicationAnimale2/"
 
 # Assets
 #
