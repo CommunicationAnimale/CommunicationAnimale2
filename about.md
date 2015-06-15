@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A propos
-permalink: about
+permalink: /about/
 ---
 
 Ce site a été créé dans le cadre des Travaux Personnels Encadrés (TPE), sur le sujet de la communication animale. L'intégralité du code source de ce site est visible sur le [dépôt GitHub CommunicationAnimale/CommunicationAnimale.github.io](https://github.com/CommunicationAnimale/CommunicationAnimale.github.io).

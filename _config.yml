@@ -2,11 +2,10 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
+title:               La Communication Animale
+tagline:             Que permettent les nouvelles connaissances en matière de communication animale ?
 url:                 https://communicationanimale.tk/CommunicationAnimale2/
 paginate:            1
 baseurl:             ""
@@ -24,10 +23,11 @@ author:
   url:               
   email:             
 
-# Custom vars
-version:             1.0.0
-github:
-  repo:              https://github.com/CommunicationAnimale/CommunicationAnimale2
+# Site
+theme :
+  footer_text: >
+   Créé par des élèves du <a href="http://www.lycee-delacroix-maisons-alfort.fr/">Lycée Delacroix</a>
+   <br>2015
 
 # Collections
 collections:
@@ -36,5 +36,6 @@ collections:
     permalink: /:collection/:title/
 
 # Build
+markdown: kramdown
 kramdown:
-   math_engine: mathjax 
+   math_engine: mathjax
